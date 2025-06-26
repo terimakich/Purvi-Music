@@ -5,7 +5,7 @@ class BUTTONS(object):
     ABUTTON = [
     [
         InlineKeyboardButton("˹ sυᴘᴘσʀᴛ ˼", url="https://t.me/THE_INCRICIBLE"),
-        InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/ZOYU_SUPPORT")
+        InlineKeyboardButton("˹ υᴘᴅᴧᴛєs ˼", url="https://t.me/TEAMINCRICIBLE")
     ],
     [
         InlineKeyboardButton("˹ ʟᴧηɢᴜᴧɢє ˼", callback_data="LG"),

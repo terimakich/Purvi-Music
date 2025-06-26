@@ -115,7 +115,7 @@ async def get_thumb(videoid):
 
         # Duration 
         duration_text_size = draw.textsize(duration, font=bold_font)
-        draw.text((end_x + 10, 655), duration, fill="white", font=bold_font)
+        draw.text((end_x + 10, 655), duration, fill="yellow", font=bold_font)
 
         # Clean up
         try:

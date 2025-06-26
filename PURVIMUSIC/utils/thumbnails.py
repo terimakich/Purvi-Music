@@ -111,7 +111,7 @@ async def get_thumb(videoid):
         start_x = 150
         end_x = 1130
         line_y = 670
-        draw.line([(start_x, line_y), (end_x, line_y)], fill="white", width=4)
+        draw.line([(start_x, line_y), (end_x, line_y)], fill="yellow", width=4)
 
         # Duration 
         duration_text_size = draw.textsize(duration, font=bold_font)

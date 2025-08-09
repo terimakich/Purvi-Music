@@ -39,8 +39,11 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", "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") 
 
-API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-API_KEY = getenv("API_KEY", '30DxNexGenBots5fe9ae') # youtube song api ke
+# API URL - here
+API_URL = getenv("API_URL", 'https://tgmusic.fallenapi.fun')
+
+# API KEY - here
+API_KEY = getenv("API_KEY", '04fce1_67h1VG_mIVVgGUTkfTNLTAw3kLq33fi1') 
 
 # ----------------------------------------------------------------
 # -------------------------------------------------------------------------

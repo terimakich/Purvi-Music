@@ -41,7 +41,7 @@ GIT_TOKEN = getenv(
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.thequickearn.xyz')
-API_KEY = getenv("API_KEY", '30DxNexGenBots6d066c')
+API_KEY = getenv("API_KEY", '30DxNexGenBots3a9081')
 
 # ----------------------------------------------------------------
 # -------------------------------------------------------------------------
